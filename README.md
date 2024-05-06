@@ -11,7 +11,12 @@ git clone https://github.com/ky13troj/tubeFetch.git
 ```
 ### Step 2: Install Dependencies
 
-Navigate to the project directory and install the required dependencies using the following command:
+Navigate to the project directory and install the required dependencies using the following commands:
+
+```bash
+cd tubeFetch
+```
+
 ```bash
 pip install -r requirements.txt
 ```
